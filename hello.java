@@ -1,4 +1,7 @@
 hhhhhhhhh
 wq
-:wq
+:wqp
+public static main{
+sout
 
+}
